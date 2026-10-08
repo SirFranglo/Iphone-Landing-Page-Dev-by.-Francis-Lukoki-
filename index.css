@@ -1,0 +1,39 @@
+header {
+    background-image: url(/Golden-Gate-Bridge-wallpaper-for-computer-tablet-phone.jpg); width: 20; height: 20;
+    background-repeat: none;
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: center;
+}
+.linebreak {
+ width: 280px;
+ justify-content: center;
+ padding: 25p;
+
+}
+.button1:hover {
+    color: gold;
+    cursor: pointer;
+}
+.button2:hover {
+    color: gold;
+    cursor: pointer;
+}
+
+.button3:hover {
+    color: gold;
+    cursor: pointer;
+}
+.button4:hover {
+    color: gold;
+    cursor: pointer;
+}
+
